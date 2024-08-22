@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884624276189",
+    "project_id": "baadhipresence",
+    "storage_bucket": "baadhipresence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884624276189:android:9ace6520a1b0b60d48b934",
+        "android_client_info": {
+          "package_name": "com.agromwinda.baadhi_pres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSGqgoixL4XYwoFZHUZ8PRtlGe561EEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
